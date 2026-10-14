@@ -606,6 +606,35 @@
     "last_updated": "2026-07-16"
   },
   {
+    "name": "Sigilry",
+    "maker": "Send",
+    "type": "partner",
+    "category": "SDKs",
+    "desc": "A community TypeScript SDK for Canton dApp-wallet connectivity through the CIP-0103 provider API. @sigilry/dapp provides typed JSON-RPC clients and servers, transports, and OpenRPC-derived runtime schemas; @sigilry/react adds React Query hooks.",
+    "links": [
+      {
+        "label": "Docs",
+        "url": "https://sigilry.org"
+      },
+      {
+        "label": "Repo",
+        "url": "https://github.com/sigilry/sigilry"
+      },
+      {
+        "label": "npm (dapp)",
+        "url": "https://www.npmjs.com/package/@sigilry/dapp"
+      },
+      {
+        "label": "npm (react)",
+        "url": "https://www.npmjs.com/package/@sigilry/react"
+      }
+    ],
+    "daml_sdk_version": null,
+    "maintained_by": "Send",
+    "dev_fund": false,
+    "last_updated": "2026-10-05"
+  },
+  {
     "name": "HydraX Tokenisation REST APIs",
     "maker": "HydraX",
     "type": "partner",
