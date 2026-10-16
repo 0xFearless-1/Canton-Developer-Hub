@@ -1130,5 +1130,21 @@
     "maintained_by": "BootNode",
     "dev_fund": true,
     "last_updated": "2026-09-22"
+  },
+  {
+    "name": "Canton .NET SDK",
+    "maker": "Peaceful Studio",
+    "type": "partner",
+    "category": "SDKs",
+    "desc": "Open-source C# SDK for building Canton 3.6 applications in .NET, with ready-made Splice Token Standard and Daml Finance packages. Generate typed C# from your DARs with dpm codegen-cs, use the same types over gRPC, the JSON Ledger API and PQS, trace every call with OpenTelemetry, and unit-test against the bundled in-memory ledger.",
+    "links": [
+      { "label": "Repo", "url": "https://github.com/peacefulstudio/canton-dotnet-sdk" },
+      { "label": "NuGet", "url": "https://www.nuget.org/profiles/peaceful" },
+      { "label": "Quickstart demo", "url": "https://github.com/peacefulstudio/canton-dotnet-sdk-mini-demo" }
+    ],
+    "daml_sdk_version": "3.6.0",
+    "maintained_by": "Peaceful Studio",
+    "dev_fund": true,
+    "last_updated": "2026-10-14"
   }
 ]
