@@ -1146,5 +1146,30 @@
     "maintained_by": "Peaceful Studio",
     "dev_fund": true,
     "last_updated": "2026-10-14"
+  },
+  {
+    "name": "Raposza Tools",
+    "maker": "Raposza",
+    "type": "partner",
+    "category": "Local Dev",
+    "desc": "Desktop Sandbox and Workbench for running Canton locally on Linux and Windows without Docker. The Sandbox starts a single participant or a native Splice LocalNet with PostgreSQL, a local OpenID Provider, test fixtures and snapshots, and installs DPM, the Daml SDK and Splice itself; the Workbench reads Daml-LF from the participant to show parties, packages, templates and contracts with their history.",
+    "links": [
+      {
+        "label": "Repo",
+        "url": "https://github.com/raposza/tools"
+      },
+      {
+        "label": "First install",
+        "url": "https://github.com/raposza/tools/blob/main/FIRST_INSTALL.md"
+      },
+      {
+        "label": "Releases",
+        "url": "https://github.com/raposza/tools/releases"
+      }
+    ],
+    "daml_sdk_version": "3.6.0",
+    "maintained_by": "Raposza",
+    "dev_fund": false,
+    "last_updated": "2026-10-14"
   }
 ]
