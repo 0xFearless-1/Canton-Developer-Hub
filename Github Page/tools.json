@@ -1171,5 +1171,22 @@
     "maintained_by": "Raposza",
     "dev_fund": false,
     "last_updated": "2026-10-14"
+  },
+  {
+    "name": "Canton Operator Labs",
+    "maker": "Unity Nodes",
+    "type": "partner",
+    "category": "Getting Started",
+    "desc": "Hands-on incident labs for validator operators: each one breaks a local Splice LocalNet the way nodes break in production, you fix it with the public docs, and a script checks the fix. Two labs so far: rolling back an upgrade that already migrated the databases, and a validator that ran out of synchronizer traffic.",
+    "links": [
+      {
+        "label": "Repo",
+        "url": "https://github.com/UnityNodes/canton-operator-labs"
+      }
+    ],
+    "daml_sdk_version": null,
+    "maintained_by": "Unity Nodes",
+    "dev_fund": false,
+    "last_updated": "2026-10-23"
   }
 ]
